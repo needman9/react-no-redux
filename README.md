@@ -9,9 +9,6 @@
   This is a simple react application without redux, stylesheets or other set frameworks. It's only meant to get you started and the rest if up to you. Our goal for is to keep things simple and give you the freedom to select your own frameworks to add on top of this one.
 </p>
 
-### Demo
-https://murmuring-fjord-36537.herokuapp.com/
-
 ### Prerequisites
 * You'll need to have [git](https://git-scm.com/) and [node](https://nodejs.org/en/) installed in your system.
 
